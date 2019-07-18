@@ -1,0 +1,2 @@
+# Demosession
+Django session 
